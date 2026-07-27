@@ -265,7 +265,6 @@ button, input, textarea { font-family: inherit; }
   max-height: 520px;
   object-fit: contain;
   background: #000;
-  vertical-align: middle;
 }
 @media (max-width: 600px) {
   .video-player {
